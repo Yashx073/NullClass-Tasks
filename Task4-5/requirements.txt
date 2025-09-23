@@ -1,0 +1,7 @@
+gradio
+google-generativeai
+python-dotenv
+Pillow
+numpy
+scikit-learn
+faiss-cpu

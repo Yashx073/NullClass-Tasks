@@ -1,0 +1,2 @@
+Machine learning allows computers to learn patterns from data without being explicitly programmed.
+Python is a programming language used for AI and web development.

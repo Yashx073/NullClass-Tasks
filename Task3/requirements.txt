@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+google-generativeai
+scikit-learn
+matplotlib
+gradio
