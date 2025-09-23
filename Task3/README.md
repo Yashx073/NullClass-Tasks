@@ -15,5 +15,3 @@ It can:
    pip install -r requirements.txt
 
 
-
-AIzaSyDFioptPKl7CsEygFFvwlPukbH8uB-S3a0
